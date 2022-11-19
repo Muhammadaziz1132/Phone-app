@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phone_app</string>
+    <string name="phone">Phone</string>
+    <string name="add_phone">Add phone</string>
+</resources>
